@@ -81,3 +81,66 @@ header{
         opacity: 1;
     }
 }
+
+.videos{
+    cursor: pointer;
+}
+
+.img1{
+    display: inline-flex;
+    margin-left: 6rem;
+}
+
+.img2{
+
+    display: inline-flex;
+    margin-left: 15em;
+    margin-bottom: .1rem;    
+}
+
+.img3{
+    display: inline-flex;
+    margin-left: 17rem;
+  
+}
+.semelhantes{
+    display: inline-block;
+    margin-left: 30rem;
+    margin-bottom: 0%;
+    text-align: center;
+}
+.desq{
+    display: inline-flex;
+    
+}
+.desq1{
+    font-size: 1.2rem ;
+    margin-left: 6rem;
+    cursor: pointer;
+
+}
+
+.desq2{
+    font-size: 1.2rem ;
+    margin-left: 15rem;
+    cursor: pointer;
+
+}
+
+.desq3{
+    font-size: 1.2rem ;
+    margin-left: 17rem;
+    cursor: pointer;
+}
+
+.desq1:hover{
+    color: #fff;
+}
+
+.desq2:hover{
+    color: #fff;
+}
+
+.desq3:hover{
+    color: #fff;
+}
